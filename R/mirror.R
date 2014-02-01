@@ -1,4 +1,4 @@
-mirror <- function(js=NULL, arg1="arg1", arg2="arg2")
+mirror <- function(m=NULL, arg1="arg1", arg2="arg2")
 {
-  return(print(js))
+  return(m)
 }
